@@ -2,7 +2,7 @@ package route
 
 import (
 	"net/http"
-	"sparkle-service/sys"
+	"sparkleme-service/sys"
 
 	"github.com/go-chi/chi/v5"
 )

@@ -1,3 +1,5 @@
+github.com/Kuingsmile/sysproxy-go v0.0.0-20260102134216-e0a001ea7278 h1:Mc0oxTYZP3aVXQbGwCWBqPRUVK+eAOT5a6D9rUnBUeI=
+github.com/Kuingsmile/sysproxy-go v0.0.0-20260102134216-e0a001ea7278/go.mod h1:OKeKo0q/TgJ4lPSZ/BdcGNSP1HXaKLG3AjWhGlZPHlI=
 github.com/ajg/form v1.5.1 h1:t9c7v8JUKu/XxOGBU0yjNpaMloxGEJhUkqFRq0ibGeU=
 github.com/ajg/form v1.5.1/go.mod h1:uL1WgH+h2mgNtvBq0339dVnzXdBETtL2LeUXaIv25UY=
 github.com/cpuguy83/go-md2man/v2 v2.0.6/go.mod h1:oOW0eioCTA6cOiMLiUPZOpcVxMig6NIQQ7OS05n1F4g=
@@ -38,8 +40,6 @@ github.com/tklauser/go-sysconf v0.3.15 h1:VE89k0criAymJ/Os65CSn1IXaol+1wrsFHEB8O
 github.com/tklauser/go-sysconf v0.3.15/go.mod h1:Dmjwr6tYFIseJw7a3dRLJfsHAMXZ3nEnL/aZY+0IuI4=
 github.com/tklauser/numcpus v0.10.0 h1:18njr6LDBk1zuna922MgdjQuJFjrdppsZG60sHGfjso=
 github.com/tklauser/numcpus v0.10.0/go.mod h1:BiTKazU708GQTYF4mB+cmlpT2Is1gLk7XVuEeem8LsQ=
-github.com/xishang0128/sysproxy-go v0.0.0-20251022110932-8ec67a93fb7f h1:/l1jZo7cytLQpEGEvvYYiUMoXdggNY2I+6MM7bz8ZH0=
-github.com/xishang0128/sysproxy-go v0.0.0-20251022110932-8ec67a93fb7f/go.mod h1:gYkQaKhRdqqRlAM6FEaQHXb7GSG3mtrDU505LfFn6AY=
 github.com/yusufpapurcu/wmi v1.2.4 h1:zFUKzehAFReQwLys1b/iSMl+JQGSCSjtVqQn9bBrPo0=
 github.com/yusufpapurcu/wmi v1.2.4/go.mod h1:SBZ9tNy3G9/m5Oi98Zks0QjeHVDvuK0qfxQmPyzfmi0=
 golang.org/x/sys v0.0.0-20190916202348-b4ddaad3f8a3/go.mod h1:h1NjWce9XRLGQEsW7wpKNCjG9DtNlClVuFLEZdDNbEs=
