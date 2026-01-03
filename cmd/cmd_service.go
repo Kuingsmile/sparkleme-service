@@ -155,7 +155,6 @@ var serviceUninstallCmd = &cobra.Command{
 
 		if err := s.Stop(); err != nil {
 			log.Println("停止服务失败：", err)
-			return
 		}
 		if err := s.Uninstall(); err != nil {
 			log.Println("卸载服务失败：", err)
